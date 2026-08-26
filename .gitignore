@@ -1,0 +1,18 @@
+# Build products
+image
+tests
+bench
+dbench
+draw
+game
+dgame
+*.dSYM/
+*.exe
+*.o
+
+# Generated images
+pa1_*.png
+diff/
+
+# macOS
+.DS_Store
